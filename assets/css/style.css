@@ -59,7 +59,7 @@ background-color: #e5e5e5;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 210vh;
+    height: 400vh;
 
     background: url("../images/intro.png") center no-repeat;
     -webkit-background-size: cover;
